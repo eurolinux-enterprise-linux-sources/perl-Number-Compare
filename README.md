@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - perl-Number-Compare 
+# ELS - Enterprise Linux/EuroLinux Sources - perl-Number-Compare
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
