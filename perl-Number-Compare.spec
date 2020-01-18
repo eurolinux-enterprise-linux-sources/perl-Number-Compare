@@ -1,6 +1,6 @@
 Name: 		perl-Number-Compare
 Version: 	0.03
-Release: 	5%{?dist}
+Release: 	6%{?dist}
 Summary: 	Perl module for numeric comparisons
 License: 	GPL+ or Artistic
 Group: 		Development/Libraries
@@ -41,6 +41,9 @@ make test
 %{_mandir}/man3/*
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.03-6
+- Mass rebuild 2013-12-27
+
 * Tue Aug 14 2012 Petr Pisar <ppisar@redhat.com> - 0.03-5
 - Specify all dependencies
 
